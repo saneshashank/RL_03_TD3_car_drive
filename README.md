@@ -109,4 +109,4 @@ The "Brain" has been tuned for this specific navigation task. Key parameters inc
 *   **Load Model:** Click **"📂 LOAD MODEL"** to restore the state from `last_brain.pth`.
 
 ---
-*Created for the Autonomous Car Navigation Assignment.*
+
